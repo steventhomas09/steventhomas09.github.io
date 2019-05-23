@@ -65,6 +65,7 @@ hr{
 
 .white-section{
   background-color: white;
+  padding-top: 10px;
 }
 
 
@@ -135,7 +136,7 @@ font-family: 'Dancing Script', cursive;
 
 /* Features Section */
 #features {
- padding-top: 10px; 
+
 }
 
   position: relative;
