@@ -18,6 +18,10 @@ p {
   color: #8f8f8f;
 }
 
+.ash-image{
+ padding-top: 5px; 
+}
+
 hr{
   border: dotted black 4px;
   border-bottom: none;
